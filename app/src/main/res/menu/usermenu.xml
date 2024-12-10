@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/HomeFragment"
+        android:icon="@drawable/home"/>
+    <item
+        android:icon="@drawable/addon"
+        android:id="@+id/ChallengesFragment"
+        android:title="Challenges" />
+
+    <item android:title="Ask Experts"
+        android:id="@+id/ExpertFragment"
+        android:icon="@drawable/guru"/>
+
+    <item android:title="Settings"
+        android:id="@+id/SettingsFragment"
+        android:icon="@drawable/setting"/>
+</menu>
