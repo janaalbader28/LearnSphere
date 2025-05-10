@@ -3,8 +3,8 @@
 
 ![ Learnsphere Logo](logo.png) 
 ## Overview  
-Learnsphere is an educational app designed to provide users in Saudi Arabia with online and in-person courses in tech fields like AI, UX/UI design, and programming.
-
+Learnsphere is an educational app designed to provide users in Saudi Arabia with online and in-person courses in tech fields like AI, UX/UI design, and programming.  
+A Swift-based version of the app is also available for iOS devices: [LearnSphere_Swift](https://github.com/janaalbader28/LearnSphere_Swift)
 ## Features  
 ### User Features  
 - **Sign Up**: Create a new account to access learning resources.  
